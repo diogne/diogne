@@ -2,7 +2,7 @@
 - I am doing web apps
 - :rocket: My main project is a e-learning app
 - :hammer_and_wrench:	My "everyday toolbox" :
-    - Python, Django, DRF, SQLAlchemy ORM & Core, Pandas, 
+    - Python, Django, DRF, Wagtail, SQLAlchemy ORM & Core, Pandas, 
     - SQLite, PostgreSQL
     - Nginx, Gunicorn, Supervisor,
     - Javascript, HTML 5, CSS 3, 
