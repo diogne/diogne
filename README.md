@@ -15,7 +15,12 @@
 - 👀 I’m currently learning about cryptocurrencies
 - 💞️ I’m looking to collaborate on anything I would find meaningful
 - :chess_pawn: Always up for playing chess ('Jerouge' on chess.com) or go ('Vauban' on kgs)
-- 
+- Portfolio : 
+    - www.anagraal.com
+    - www.my-world-nft.com
+
+
+
 
 <!---
 diogne/diogne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
