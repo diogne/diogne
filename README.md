@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diogne
 - I am doing web apps
-- :rocket: My main project is a e-learning app - hopefully beta testing starts in february 2022
+- :rocket: My main project is a e-learning app
 - :hammer_and_wrench:	My "everyday toolbox" :
     - Python, Django, DRF, SQLAlchemy ORM & Core, Pandas, 
     - SQLite, PostgreSQL
