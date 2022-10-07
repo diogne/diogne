@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diogne
 - I am doing web apps
-- :rocket: My main project is a e-learning app
+- 👀 Currently looking for my next challenge
 - :hammer_and_wrench:	My "everyday toolbox" :
     - Python, Django, DRF, Wagtail, SQLAlchemy ORM & Core, Pandas, 
     - SQLite, PostgreSQL
@@ -13,13 +13,8 @@
     - Google Cloud Platform : Firebase, Firestore, 
     - TailwindCSS
     - UiPath
-- 👀 I’m currently learning about cryptocurrencies
-- 💞️ I’m looking to collaborate on anything I would find meaningful
-- :chess_pawn: Always up for playing chess ('Jerouge' on chess.com) or go ('Vauban' on kgs)
-- Portfolio : 
-    - www.anagraal.com
-    - www.my-world-nft.com
-
+- 💞️ OK to collaborate on anything I would find meaningful
+- :chess_pawn: Always up for playing chess or go 
 
 
 
