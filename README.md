@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogne
-- I am doing web apps
+<!---  - I am doing web apps   --->
 - :hammer_and_wrench:	My "everyday toolbox" :
     - Python, Django, DRF, Wagtail, SQLAlchemy ORM & Core, Pandas, 
     - SQLite, PostgreSQL
